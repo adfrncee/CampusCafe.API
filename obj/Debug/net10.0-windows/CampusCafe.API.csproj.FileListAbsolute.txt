@@ -1,0 +1,7 @@
+C:\Users\alcan\Downloads\CampusCafe\CampusCafe.API\obj\Debug\net10.0-windows\CampusCafe.API.csproj.AssemblyReference.cache
+C:\Users\alcan\Downloads\CampusCafe\CampusCafe.API\obj\Debug\net10.0-windows\rpswa.dswa.cache.json
+C:\Users\alcan\Downloads\CampusCafe\CampusCafe.API\obj\Debug\net10.0-windows\CampusCafe.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alcan\Downloads\CampusCafe\CampusCafe.API\obj\Debug\net10.0-windows\CampusCafe.API.AssemblyInfoInputs.cache
+C:\Users\alcan\Downloads\CampusCafe\CampusCafe.API\obj\Debug\net10.0-windows\CampusCafe.API.AssemblyInfo.cs
+C:\Users\alcan\Downloads\CampusCafe\CampusCafe.API\obj\Debug\net10.0-windows\CampusCafe.API.csproj.CoreCompileInputs.cache
+C:\Users\alcan\Downloads\CampusCafe\CampusCafe.API\obj\Debug\net10.0-windows\CampusCafe.API.MvcApplicationPartsAssemblyInfo.cache
